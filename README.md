@@ -1,8 +1,6 @@
 ## Created this Repo for learning and practice purposes.
 
-> GoodDay EveryBody!
-
-<br/><br/>
+> GoodDay EveryBody!  
 
 ![Project Preview](preview.jpg)
 
