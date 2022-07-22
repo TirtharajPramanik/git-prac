@@ -1,0 +1,22 @@
+<header>
+  <h1>Hello, World!</h1>
+  <div class="calc-container">
+    <input
+      type="number"
+      name="frst"
+      placeholder="eg. 123"
+      [formControl]="frst"
+      (input)="change()"
+    />
+    +
+    <input
+      type="number"
+      name="scnd"
+      placeholder="eg. 123"
+      [formControl]="scnd"
+      (input)="change()"
+    />
+    =
+    <span>{{ sum }}</span>
+  </div>
+</header>
