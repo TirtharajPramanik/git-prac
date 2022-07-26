@@ -1,0 +1,21 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+
+input {
+    font-size: 1em;
+    width: 5em;
+}
+
+form span {
+    font-size: 1.5em;
+    margin: auto 0.5em;
+}
