@@ -1,0 +1,25 @@
+main {
+    color: white;
+}
+
+main input {
+    font-size: 2em;
+    padding: 0.2em 0.5em;
+    width: 10em;
+    border-radius: 0.5em;
+}
+
+main button {
+    font-size: 1em;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    color: white;
+    background-color: gray;
+    margin-left: 1em;
+}
+
+main ul {
+    color: white;
+    font-size: 3em;
+    list-style: none;
+}
